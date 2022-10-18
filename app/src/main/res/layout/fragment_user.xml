@@ -7,12 +7,12 @@
     android:paddingLeft="@dimen/vs_40"
     android:paddingRight="@dimen/vs_40">
 
-    <androidx.core.widget.NestedScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginTop="10dp"
-        android:fillViewport="true"
-        android:overScrollMode="never">
+<!--     <androidx.core.widget.NestedScrollView -->
+<!--         android:layout_width="match_parent" -->
+<!--         android:layout_height="match_parent" -->
+<!--         android:layout_marginTop="10dp" -->
+<!--         android:fillViewport="true" -->
+<!--         android:overScrollMode="never"> -->
 
         <RelativeLayout
             android:layout_width="wrap_content"
@@ -278,6 +278,6 @@
                 app:tv_verticalSpacingWithMargins="@dimen/vs_10" />
         </RelativeLayout>
 
-    </androidx.core.widget.NestedScrollView>
+<!--     </androidx.core.widget.NestedScrollView> -->
 
 </RelativeLayout>
